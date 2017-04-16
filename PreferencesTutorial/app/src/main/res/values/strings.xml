@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_edittext_preference">文本输入框</string>
+    <string name="summary_edittext_preference">点击可输入文本内容</string>
+    <string name="dialog_title_edittext_preference">请输入任意内容</string>
+    <string name="title_checkbox_preference">选项框</string>
+    <string name="summary_checkbox_preference">这是一个选项框</string>
+    <string name="app_name">PreferencesTutorial</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="inline_preferences">In-line preferences</string>
+    <string name="dialog_based_preferences">Dialog-based preferences</string>
+    <string name="launch_preferences">Launch preferences</string>
+    <string name="preference_attributes">Preference attributes</string>
+    <string name="title_list_preference">列表单选</string>
+    <string name="summary_list_preference">点击弹出对话框可进行选择</string>
+    <string name="dialog_title_list_preference">单项选择</string>
+    <string name="title_screen_preference">翻页选择</string>
+    <string name="summary_screen_preference">翻页选择示例</string>
+    <string name="title_fragment_preference">Fragment preference</string>
+    <string name="summary_fragment_preference">Shows another fragment of preferences</string>
+    <string name="title_next_screen_toggle_preference">页面切换</string>
+    <string name="summary_next_screen_toggle_preference">页面切换选择</string>
+    <string name="title_intent_preference">外链跳转</string>
+    <string name="summary_intent_preference">点击跳转至外链网页</string>
+    <string name="title_my_preference">My preference</string>
+    <string name="summary_my_preference">This is a custom counter preference</string>
+    <string name="title_advanced_toggle_preference">Haunted preference</string>
+    <string name="summary_on_advanced_toggle_preference">I\'m on! :)</string>
+    <string name="summary_off_advanced_toggle_preference">I\'m off! :(</string>
+    <string name="title_parent_preference">父项选择框</string>
+    <string name="summary_parent_preference">选择该选项才可以选择子项</string>
+    <string name="title_child_preference">子项选择框</string>
+    <string name="summary_child_preference">子项选择示例</string>
+</resources>
